@@ -18,13 +18,13 @@ Este programa permite la gestion de parcelas y sensores, registrar mediciones y 
 
 **DNI:** 45938403
 
-Rossani, Valentino
+**Rossani, Valentino**
 
-DNI: 45953219
+**DNI:** 45953219
 
-Nieto, Nadia Ingrid
+**Nieto, Nadia Ingrid**
 
-DNI: 31355860
+**DNI:** 31355860
 
 ### Instruciones de ejecucion:
 
